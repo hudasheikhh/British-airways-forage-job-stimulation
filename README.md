@@ -1,6 +1,12 @@
 # British-airways-forage-job-stimulation
 
-British Airways Data Science Job Simulation on Forage - March 2025
-Completed a simulation focussing on how data science is a critical component of British Airways success
-Scraped and analysed customer review data to uncover findings
-Built a predictive model to understand factors that influence buying behaviour
+British-Airways-virtual-internship
+Data science virtual internship programme by British Airways through Forage!
+
+Task 1
+applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
+analyze customer reviews using sentimental analysis to sort positive and negative reviews.
+preparing a powerpoint representation to highlight our insights and analysis.
+Task 2
+creating a classification model to predict customer buying behaviour.
+preparing a powerpoint representation to highlight our insights and analysis.
